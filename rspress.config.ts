@@ -24,4 +24,5 @@ export default defineConfig({
       assetPrefix: '/react-antd-admin-pro-docs',
     },
   },
+  base: '/react-antd-admin-pro-docs/',
 });
