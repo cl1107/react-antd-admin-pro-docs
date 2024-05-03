@@ -16,7 +16,6 @@ hero:
     src: /rspress-icon.png
     alt: react-antd-admin-pro Logo
 features:
-features:
   - title: 基于 Rspack、Rsbuild
     details: 享受 Rspack、Rsbuild 带来的极致开发体验。
     icon: 🚀
