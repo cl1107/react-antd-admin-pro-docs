@@ -2,19 +2,19 @@
 pageType: home
 
 hero:
-  name: react-antd-admin-pro-docs
-  text: react-antd-admin-pro-docs
-  tagline: react-antd-admin-pro-docs tagline
+  name: react-antd-admin-pro
+  text: 使用React、TypeScript最新技术栈搭建的企业级中台前端基础模板
+  tagline: 简单 高效 开箱即用
   actions:
     - theme: brand
-      text: Quick Start
+      text: 快速开始
       link: /guide/
     - theme: alt
       text: Github
-      link: https://github.com/web-infra-dev/rspress
+      link: https://github.com/cl1107/rspack-rsbuild-react-antd-admin-pro
   image:
     src: /rspress-icon.png
-    alt: react-antd-admin-pro-docs Logo
+    alt: react-antd-admin-pro Logo
 features:
   - title: Blazing fast build speed
     details: The core compilation module is based on the Rust front-end toolchain, providing a more ultimate development experience.
